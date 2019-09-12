@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=KlvsLp4Hagc&list=PLfNDfEpg5eONPCvqbHiX03nnq62ZfUYcj&index=2
+Ez a project Johan Jurrius Revision-Methods, Files videója alapján készült.
+Két methodussal dolgozik.
+a kivételkezelése "kezdetleges" az IOExeptionokat egyzserűen csak visszadobja a legtetjére. 
+A hibákat annyiban kezelei hogymenet közben azért szól, hgoy nem jól adtál meg adatokat.
+
+Új:
+A projecthez hozzá lehet csapni txt fileokat csak azért hogy legyen. Ez is pont egy ilyen:)
+
+A progi beolvassa a file sorait Scanner segítségével soronként, átalakítja nagybetűssé és létrehoz neki egy file-t, amiben el is menti.

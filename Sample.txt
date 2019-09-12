@@ -1,0 +1,10 @@
+Hogy van az ilyen létrehozott file?
+Ha ide csak úgy bepröntyögök valamit, akkor az máris elmentésre kerül,
+ mint egy bővített programleírás vagy bármi hozzáfűtznivaló?
+Azért nyomok egy mentés gombot is hozzá.
+Váááó!!
+De tök jó!
+Így minden projecthez dokumentálhatnék egy bővebb leírást. 
+Tervezést, megvalósítást és a menet közben előjött problémák majd a megoldások sorát. 
+Nagyon tetszik :)
+
